@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "image": "https://thefitnessstore.com/cdn/shop/products/DSC_128016171_360x.jpg?v=1601134740",
+      "id": "1",
+      "title": "Body Solid Dumbbells",
+      "price": "$199.99",
+      "description": "High-quality dumbbells, weight plates, benches, and more for your home gym."
+    },
+    {
+      "id": "2",
+      "title": "BodyCraft Fitness Equipment",
+      "price": "$999.99",
+      "description": "The Art of Science and Movement in fitness. BodyCraft offers premium home gym equipment.",
+      "image": "https://thefitnessstore.com/cdn/shop/files/xbu55d_360x.jpg?v=1701202298"
+    },
+    {
+      "id": "3",
+      "title": "Landice Commercial Equipment",
+      "price": "$2,499.99",
+      "description": "Landice, sculpting the finest fitness equipment since 1967.",
+      "image": "https://thefitnessstore.com/cdn/shop/files/xbr55a_360x.jpg?v=1701199230"
+    },
+    {
+      "id": "4",
+      "title": "Echelon Fitness Equipment",
+      "price": "$1,299.99",
+      "description": "Immerse yourself in an entire fitness experience with Echelon fitness equipment.",
+      "image": "https://thefitnessstore.com/cdn/shop/products/Pro-FID_a1_360x.jpg?v=1613159232"
+    },
+    {
+      "id": "5",
+      "title": "Spirit Fitness Equipment",
+      "price": "$1,499.99",
+      "description": "Reach your fitness goals with Spirit Fitness Equipment that moves you.",
+      "image": "https://thefitnessstore.com/cdn/shop/products/KBX4KG_360x.jpg?v=1611327087"
+    }
+  ],
+  "cart": [
+    {
+      "id": "74dc",
+      "image": "https://thefitnessstore.com/cdn/shop/files/xbr55a_360x.jpg?v=1701199230",
+      "title": "Landice Commercial Equipment",
+      "price": "$2,499.99",
+      "description": "Landice, sculpting the finest fitness equipment since 1967."
+    },
+    {
+      "id": "e335",
+      "image": "https://thefitnessstore.com/cdn/shop/files/xbr55a_360x.jpg?v=1701199230",
+      "title": "Landice Commercial Equipment",
+      "price": "$2,499.99",
+      "description": "Landice, sculpting the finest fitness equipment since 1967."
+    },
+    {
+      "id": "d2e0",
+      "image": "https://thefitnessstore.com/cdn/shop/products/DSC_128016171_360x.jpg?v=1601134740",
+      "title": "Body Solid Dumbbells",
+      "price": "$199.99",
+      "description": "High-quality dumbbells, weight plates, benches, and more for your home gym."
+    }
+  ]
+}
